@@ -14,7 +14,7 @@ baseurl: '/abyss'
 ## default date_format
 date_format: 
   title: "%B-%-d-%Y"
-  archive: "%y/%m/%d %H:%M:%S"
+  archive: "%y-%m-%d %H:%M:%S"
   categories: "%b, %Y"
   tag: "%b, %Y"
 # Language
